@@ -22,10 +22,6 @@
 			</dict>
 		</array>
 	</dict>
-	<key>createdby</key>
-	<string>xfslove</string>
-	<key>description</key>
-	<string>Alfred 3 workflow to search for java libraries with search.maven - v1.0</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
@@ -116,7 +112,5 @@
 			<integer>10</integer>
 		</dict>
 	</dict>
-	<key>webaddress</key>
-	<string></string>
 </dict>
 </plist>
