@@ -1,0 +1,41 @@
+{
+  "name": "alfred-mvns",
+  "version": "1.0.0",
+  "description": "Alfred 3 workflow to search for java libraries at central repo",
+  "license": "MIT",
+  "repository": "xfslove/alfred-mvns",
+  "author": {
+    "name": "hanwen.huang",
+    "email": "xfslove@gmail.com",
+    "url": "https://github.com/xfslove/alfred-mvns"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava",
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
+  },
+  "files": [
+    "index.js",
+    "icon.png",
+    "info.plist"
+  ],
+  "keywords": [
+    "mvn",
+    "alfred",
+    "alfred-workflow",
+    "workflow",
+    "alfy"
+  ],
+  "dependencies": {
+    "alfy": "^0.6.0",
+    "date-format": "^1.1.0"
+  },
+  "devDependencies": {
+    "alfy-test": "^0.3.0",
+    "ava": "*",
+    "xo": "*"
+  }
+}
