@@ -1,13 +1,12 @@
 # alfred-mvns
 [![NPM](https://nodei.co/npm/alfred-mvns.png)](https://nodei.co/npm/alfred-mvns/)
 
-<img src="screenshot.png" width="694">
-
+![maven.gi](maven.gif)
 
 ## Install
 
 ```
-$ npm install --g alfred-mvns
+$ npm install -g alfred-mvns
 ```
 
 *Requires [Node.js](https://nodejs.org) 4+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
