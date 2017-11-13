@@ -1,6 +1,6 @@
 {
   "name": "alfred-mvns",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Alfred 3 workflow to search for java libraries at central repo",
   "license": "MIT",
   "repository": "xfslove/alfred-mvns",
