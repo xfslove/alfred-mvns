@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>com.xfslove.workflows</string>
+	<string>com.xfslove.mvns</string>
 	<key>category</key>
 	<string>Productivity</string>
 	<key>connections</key>
