@@ -1,8 +1,6 @@
 # alfred-mvns
 [![NPM](https://nodei.co/npm/alfred-mvns.png)](https://nodei.co/npm/alfred-mvns/)
 
-![maven.gi](maven.gif)
-
 ## Install
 
 ```
@@ -16,9 +14,28 @@ $ npm install -g alfred-mvns
 
 In Alfred, type `mvn`, and your query, to search for java libraries at maven central repository.
 
-Select a item and press <kbd>Enter</kbd> to copy `maven dependency` to clipboard.<br>
-Hold <kbd>Alt</kbd> and press <kbd>Enter</kbd> to copy `gradle dependency` to clipboard.<br>
+Select a item and press <kbd>enter</kbd> to copy `maven dependency` to clipboard.<br>
 
+Hold <kbd>alt</kbd> and press <kbd>enter</kbd> to copy `gradle dependency` to clipboard.<br>
+
+## Demo
+
+![mvn.png](mvn.png)
+
+press <kbd>enter</kbd> get:
+
+```
+<dependency>
+  <groupId>org.nd4j</groupId>
+  <artifactId>jackson</artifactId>
+  <version>0.9.1</version>
+</dependency>
+```
+Hold <kbd>alt</kbd> and press <kbd>enter</kbd> get:
+
+```
+compile 'org.nd4j:jackson:0.9.1'
+```
 
 ## Related
 
