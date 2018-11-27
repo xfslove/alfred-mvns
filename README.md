@@ -3,12 +3,11 @@
 
 ## Install
 
-```
-$ npm install -g alfred-mvns
-```
-
 *Requires [Node.js](https://nodejs.org) 4+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
 
+- npm install `npm install -g alfred-mvns`
+
+- [download](https://github.com/xfslove/alfred-mvns/releases) workflow
 
 ## Usage
 
